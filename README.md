@@ -1,7 +1,7 @@
 # Test
-These are the testing programs.
+### These are the testing programs.
 
-Prerequisites
+##### Prerequisites
 
 You'll need to install:
 
@@ -14,5 +14,5 @@ You'll need to install:
 
 And additional libraries defined in each project.
 
-Recommended:
+##### Recommended:
 Anaconda
