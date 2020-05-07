@@ -10,6 +10,7 @@ Spyder
 Numpy
 Pandas
 Matplotlib
+Scikit learn
 
 And additional libraries defined in each project.
 
